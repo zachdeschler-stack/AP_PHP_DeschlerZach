@@ -1,0 +1,32 @@
+# Dépendances
+/vendor/
+
+# Configuration sensible
+.env
+.env.*
+
+# Logs
+/storage/logs/*
+!/storage/logs/.gitkeep
+
+# Cache
+/storage/cache/*
+!/storage/cache/.gitkeep
+
+# Uploads générés
+/uploads/*
+!/uploads/images/
+!/uploads/documents/
+
+# Fichiers temporaires
+*.tmp
+*.temp
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Système
+.DS_Store
+Thumbs.db
