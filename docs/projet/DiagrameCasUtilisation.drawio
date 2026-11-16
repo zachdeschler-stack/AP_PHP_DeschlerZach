@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net">
+<mxfile host="Electron">
   <diagram name="Page-1" id="hNlXL27lJsVljJBPaxZY">
-    <mxGraphModel dx="1182" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="827" dy="1797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,8 +58,8 @@
         <mxCell id="CYpuTpaAaR9Weh2ET7W0-28" edge="1" parent="1" source="CYpuTpaAaR9Weh2ET7W0-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="CYpuTpaAaR9Weh2ET7W0-25">
           <mxGeometry relative="1" x="0.1407" as="geometry">
             <Array as="points">
-              <mxPoint x="680" y="-620" />
-              <mxPoint x="680" y="-680" />
+              <mxPoint x="680" y="-801" />
+              <mxPoint x="680" y="-861" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -69,28 +69,28 @@
         <mxCell id="CYpuTpaAaR9Weh2ET7W0-30" edge="1" parent="1" source="CYpuTpaAaR9Weh2ET7W0-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="CYpuTpaAaR9Weh2ET7W0-27">
           <mxGeometry relative="1" x="0.1707" as="geometry">
             <Array as="points">
-              <mxPoint x="680" y="-620" />
-              <mxPoint x="680" y="-565" />
+              <mxPoint x="680" y="-801" />
+              <mxPoint x="680" y="-746" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="CYpuTpaAaR9Weh2ET7W0-23" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="&lt;div&gt;Étudiant&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="30" x="720" y="-650" as="geometry" />
+          <mxGeometry height="60" width="30" x="720" y="-831" as="geometry" />
         </mxCell>
         <mxCell id="CYpuTpaAaR9Weh2ET7W0-31" edge="1" parent="1" source="CYpuTpaAaR9Weh2ET7W0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;dashed=1;dashPattern=1 2;" target="CYpuTpaAaR9Weh2ET7W0-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CYpuTpaAaR9Weh2ET7W0-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Filtrer les QCM" vertex="1">
-          <mxGeometry height="40" width="140" x="495" y="-770" as="geometry" />
+          <mxGeometry height="40" width="140" x="495" y="-951" as="geometry" />
         </mxCell>
         <mxCell id="CYpuTpaAaR9Weh2ET7W0-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Consulter la liste&amp;nbsp;des QCM de sa classe" vertex="1">
-          <mxGeometry height="40" width="130" x="500" y="-700" as="geometry" />
+          <mxGeometry height="40" width="130" x="500" y="-881" as="geometry" />
         </mxCell>
         <mxCell id="CYpuTpaAaR9Weh2ET7W0-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Répondre à un QCM" vertex="1">
-          <mxGeometry height="40" width="100" x="530" y="-640" as="geometry" />
+          <mxGeometry height="40" width="100" x="530" y="-821" as="geometry" />
         </mxCell>
         <mxCell id="CYpuTpaAaR9Weh2ET7W0-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Consulter ses résultats" vertex="1">
-          <mxGeometry height="30" width="100" x="530" y="-580" as="geometry" />
+          <mxGeometry height="30" width="100" x="530" y="-761" as="geometry" />
         </mxCell>
         <mxCell id="CYpuTpaAaR9Weh2ET7W0-38" edge="1" parent="1" source="CYpuTpaAaR9Weh2ET7W0-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="CYpuTpaAaR9Weh2ET7W0-33">
           <mxGeometry relative="1" as="geometry">
@@ -122,11 +122,31 @@
         <mxCell id="CYpuTpaAaR9Weh2ET7W0-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Gérer les questions" vertex="1">
           <mxGeometry height="30" width="130" x="260" y="-650" as="geometry" />
         </mxCell>
+        <mxCell id="G1dAulq52MtLdDqqTB95-4" edge="1" parent="1" source="CYpuTpaAaR9Weh2ET7W0-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;dashed=1;dashPattern=1 2;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="-570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="CYpuTpaAaR9Weh2ET7W0-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Configurer un QCM" vertex="1">
           <mxGeometry height="40" width="110" x="260" y="-590" as="geometry" />
         </mxCell>
         <mxCell id="CYpuTpaAaR9Weh2ET7W0-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Consulter les résultats des étudiants" vertex="1">
           <mxGeometry height="40" width="130" x="260" y="-520" as="geometry" />
+        </mxCell>
+        <mxCell id="G1dAulq52MtLdDqqTB95-5" edge="1" parent="1" source="G1dAulq52MtLdDqqTB95-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;dashed=1;dashPattern=1 2;" target="CYpuTpaAaR9Weh2ET7W0-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G1dAulq52MtLdDqqTB95-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="dupliquer une question" vertex="1">
+          <mxGeometry height="40" width="140" x="493" y="-655" as="geometry" />
+        </mxCell>
+        <mxCell id="G1dAulq52MtLdDqqTB95-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="genere les questions du QCM (tirage aleatoire)" vertex="1">
+          <mxGeometry height="52" width="160" x="473" y="-596" as="geometry" />
+        </mxCell>
+        <mxCell id="G1dAulq52MtLdDqqTB95-6" parent="1" style="whiteSpace=wrap;html=1;" value="&quot;extend&quot;" vertex="1">
+          <mxGeometry height="20" width="50" x="417" y="-660" as="geometry" />
+        </mxCell>
+        <mxCell id="G1dAulq52MtLdDqqTB95-7" parent="1" style="whiteSpace=wrap;html=1;" value="&quot;include&quot;" vertex="1">
+          <mxGeometry height="20" width="50" x="397" y="-595" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
