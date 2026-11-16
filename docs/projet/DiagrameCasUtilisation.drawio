@@ -1,0 +1,134 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="hNlXL27lJsVljJBPaxZY">
+    <mxGraphModel dx="1182" dy="1988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CYpuTpaAaR9Weh2ET7W0-3" edge="1" parent="1" source="CYpuTpaAaR9Weh2ET7W0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="CYpuTpaAaR9Weh2ET7W0-2" value="">
+          <mxGeometry relative="1" x="0.1709" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="-800" />
+              <mxPoint x="190" y="-920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CYpuTpaAaR9Weh2ET7W0-11" edge="1" parent="1" source="CYpuTpaAaR9Weh2ET7W0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;entryX=0;entryY=0.45;entryDx=0;entryDy=0;" target="CYpuTpaAaR9Weh2ET7W0-6">
+          <mxGeometry relative="1" x="0.2771" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="-800" />
+              <mxPoint x="190" y="-842.6" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CYpuTpaAaR9Weh2ET7W0-15" edge="1" parent="1" source="CYpuTpaAaR9Weh2ET7W0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;flowAnimation=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="CYpuTpaAaR9Weh2ET7W0-16">
+          <mxGeometry relative="1" x="-0.0933" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="-800" />
+              <mxPoint x="190" y="-760" />
+            </Array>
+            <mxPoint x="240.0000000000001" y="-860.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CYpuTpaAaR9Weh2ET7W0-19" edge="1" parent="1" source="CYpuTpaAaR9Weh2ET7W0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="CYpuTpaAaR9Weh2ET7W0-18">
+          <mxGeometry relative="1" x="-0.414" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="-800" />
+              <mxPoint x="190" y="-695" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CYpuTpaAaR9Weh2ET7W0-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="Administrateur" vertex="1">
+          <mxGeometry height="60" width="30" x="120" y="-830" as="geometry" />
+        </mxCell>
+        <mxCell id="CYpuTpaAaR9Weh2ET7W0-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" value="creation et modifaction des compte utilisateur" vertex="1">
+          <mxGeometry height="40" width="130" x="264" y="-940" as="geometry" />
+        </mxCell>
+        <mxCell id="CYpuTpaAaR9Weh2ET7W0-4" edge="1" parent="1" source="CYpuTpaAaR9Weh2ET7W0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;" target="CYpuTpaAaR9Weh2ET7W0-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CYpuTpaAaR9Weh2ET7W0-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="création et modification des classe (&amp;nbsp;Affecter matières et formateurs)" vertex="1">
+          <mxGeometry height="52" width="150" x="264" y="-866" as="geometry" />
+        </mxCell>
+        <mxCell id="CYpuTpaAaR9Weh2ET7W0-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Gérer les matières" vertex="1">
+          <mxGeometry height="40" width="110" x="260" y="-780" as="geometry" />
+        </mxCell>
+        <mxCell id="CYpuTpaAaR9Weh2ET7W0-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Gérer les mots clefs" vertex="1">
+          <mxGeometry height="30" width="130" x="260" y="-710" as="geometry" />
+        </mxCell>
+        <mxCell id="CYpuTpaAaR9Weh2ET7W0-28" edge="1" parent="1" source="CYpuTpaAaR9Weh2ET7W0-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="CYpuTpaAaR9Weh2ET7W0-25">
+          <mxGeometry relative="1" x="0.1407" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="-620" />
+              <mxPoint x="680" y="-680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CYpuTpaAaR9Weh2ET7W0-29" edge="1" parent="1" source="CYpuTpaAaR9Weh2ET7W0-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="CYpuTpaAaR9Weh2ET7W0-26">
+          <mxGeometry relative="1" x="-0.1556" as="geometry" />
+        </mxCell>
+        <mxCell id="CYpuTpaAaR9Weh2ET7W0-30" edge="1" parent="1" source="CYpuTpaAaR9Weh2ET7W0-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="CYpuTpaAaR9Weh2ET7W0-27">
+          <mxGeometry relative="1" x="0.1707" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="-620" />
+              <mxPoint x="680" y="-565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CYpuTpaAaR9Weh2ET7W0-23" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="&lt;div&gt;Étudiant&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="720" y="-650" as="geometry" />
+        </mxCell>
+        <mxCell id="CYpuTpaAaR9Weh2ET7W0-31" edge="1" parent="1" source="CYpuTpaAaR9Weh2ET7W0-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;dashed=1;dashPattern=1 2;" target="CYpuTpaAaR9Weh2ET7W0-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CYpuTpaAaR9Weh2ET7W0-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Filtrer les QCM" vertex="1">
+          <mxGeometry height="40" width="140" x="495" y="-770" as="geometry" />
+        </mxCell>
+        <mxCell id="CYpuTpaAaR9Weh2ET7W0-25" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Consulter la liste&amp;nbsp;des QCM de sa classe" vertex="1">
+          <mxGeometry height="40" width="130" x="500" y="-700" as="geometry" />
+        </mxCell>
+        <mxCell id="CYpuTpaAaR9Weh2ET7W0-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Répondre à un QCM" vertex="1">
+          <mxGeometry height="40" width="100" x="530" y="-640" as="geometry" />
+        </mxCell>
+        <mxCell id="CYpuTpaAaR9Weh2ET7W0-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Consulter ses résultats" vertex="1">
+          <mxGeometry height="30" width="100" x="530" y="-580" as="geometry" />
+        </mxCell>
+        <mxCell id="CYpuTpaAaR9Weh2ET7W0-38" edge="1" parent="1" source="CYpuTpaAaR9Weh2ET7W0-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="CYpuTpaAaR9Weh2ET7W0-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="-560" />
+              <mxPoint x="190" y="-635" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CYpuTpaAaR9Weh2ET7W0-41" edge="1" parent="1" source="CYpuTpaAaR9Weh2ET7W0-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="CYpuTpaAaR9Weh2ET7W0-39">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="-560" />
+              <mxPoint x="190" y="-570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CYpuTpaAaR9Weh2ET7W0-42" edge="1" parent="1" source="CYpuTpaAaR9Weh2ET7W0-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="CYpuTpaAaR9Weh2ET7W0-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="-560" />
+              <mxPoint x="190" y="-500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CYpuTpaAaR9Weh2ET7W0-32" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="Formateur" vertex="1">
+          <mxGeometry height="60" width="30" x="120" y="-590" as="geometry" />
+        </mxCell>
+        <mxCell id="CYpuTpaAaR9Weh2ET7W0-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Gérer les questions" vertex="1">
+          <mxGeometry height="30" width="130" x="260" y="-650" as="geometry" />
+        </mxCell>
+        <mxCell id="CYpuTpaAaR9Weh2ET7W0-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Configurer un QCM" vertex="1">
+          <mxGeometry height="40" width="110" x="260" y="-590" as="geometry" />
+        </mxCell>
+        <mxCell id="CYpuTpaAaR9Weh2ET7W0-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="Consulter les résultats des étudiants" vertex="1">
+          <mxGeometry height="40" width="130" x="260" y="-520" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

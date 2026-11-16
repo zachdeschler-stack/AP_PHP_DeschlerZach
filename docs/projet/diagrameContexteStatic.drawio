@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="2slhu_T20AohmvRMLdMn">
+    <mxGraphModel dx="982" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gz-4GTuQbY7-lnR2Iejt-6" edge="1" parent="1" source="gz-4GTuQbY7-lnR2Iejt-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;defaultLabelBackgroundColor=page;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="gz-4GTuQbY7-lnR2Iejt-12">
+          <mxGeometry relative="1" x="-0.0916" as="geometry">
+            <mxPoint x="520" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gz-4GTuQbY7-lnR2Iejt-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="&lt;span style=&quot;color: rgb(11, 11, 11); font-family: anthropic-sans, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, sans-serif; font-size: 14px; text-align: start;&quot;&gt;Administrateur&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(11, 11, 11); font-family: anthropic-sans, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, sans-serif; font-size: 14px; text-align: start;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: rgb(11, 11, 11); font-family: anthropic-sans, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, sans-serif; text-align: start; background-color: transparent;&quot;&gt;Gère tout le référentiel)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="90" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="gz-4GTuQbY7-lnR2Iejt-7" edge="1" parent="1" source="gz-4GTuQbY7-lnR2Iejt-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;defaultLabelBackgroundColor=page;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gz-4GTuQbY7-lnR2Iejt-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gz-4GTuQbY7-lnR2Iejt-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="&lt;span style=&quot;color: rgb(11, 11, 11); font-family: anthropic-sans, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, sans-serif; font-size: 14px; text-align: start;&quot;&gt;Formateur&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(11, 11, 11); font-family: anthropic-sans, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, sans-serif; font-size: 14px; text-align: start;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: rgb(11, 11, 11); font-family: anthropic-sans, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, sans-serif; text-align: start; background-color: transparent;&quot;&gt;Questions, QCM, résultats)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="90" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="gz-4GTuQbY7-lnR2Iejt-8" edge="1" parent="1" source="gz-4GTuQbY7-lnR2Iejt-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;defaultLabelBackgroundColor=page;entryX=0.542;entryY=1.039;entryDx=0;entryDy=0;" target="gz-4GTuQbY7-lnR2Iejt-12">
+          <mxGeometry relative="1" x="-0.0995" as="geometry">
+            <mxPoint x="520" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gz-4GTuQbY7-lnR2Iejt-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="&lt;span style=&quot;color: rgb(11, 11, 11); font-family: anthropic-sans, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, sans-serif; font-size: 14px; text-align: start;&quot;&gt;Étudiant&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(11, 11, 11); font-family: anthropic-sans, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, sans-serif; font-size: 14px; text-align: start;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: rgb(11, 11, 11); font-family: anthropic-sans, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, sans-serif; text-align: start; background-color: transparent;&quot;&gt;Répond aux QCM)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="90" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="gz-4GTuQbY7-lnR2Iejt-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontColor=#000000;" value="plateforme de QCM en ligne" vertex="1">
+          <mxGeometry height="60" width="170" x="340" y="310" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
